@@ -1,4 +1,4 @@
-# Facebook Developer World HACK Indonesia sample application
+# Facebook Developer World HACK Bangalore sample application
 
 Sample application presented by [Niall Kennedy](https://github.com/niallkennedy) in Bangalore, India on September 17, 2012. It is an example of how to create a simple Open Graph website with Facebook login.
 
